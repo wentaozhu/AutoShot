@@ -3,7 +3,10 @@ AutoShot: A Short Video Dataset and State-of-the-Art Shot Boundary Detection - C
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/autoshot-a-short-video-dataset-and-state-of/camera-shot-boundary-detection-on-clipshots)](https://paperswithcode.com/sota/camera-shot-boundary-detection-on-clipshots?p=autoshot-a-short-video-dataset-and-state-of)
 
-Dataset link: TODO
+Dataset link:<\br>
+Label: https://github.com/wentaozhu/AutoShot/blob/main/kuaishou_v2.txt <\br>
+Data
+
 
 Model link: TODO
 
