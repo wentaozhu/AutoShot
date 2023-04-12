@@ -33,7 +33,7 @@ If you find this is helpful to you, please add our work into your reference.
 
 <pre><code>@inproceedings{zhuautoshot,
   title={AutoShot: A Short Video Dataset and State-of-the-Art Shot Boundary Detection},
-  author={Zhu, Wentao and Xie, Xiufeng and Liu, Wenxian and Deng, Jincan and Zhang, Debing and Wang, Zhangyang and Liu, Ji},
+  author={Zhu, Wentao and Huang, Yufang and Xie, Xiufeng and Liu, Wenxian and Deng, Jincan and Zhang, Debing and Wang, Zhangyang and Liu, Ji},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
   year={2023}
 }</code></pre>
