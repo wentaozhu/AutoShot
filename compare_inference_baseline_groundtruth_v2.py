@@ -19,9 +19,9 @@ if __name__ == "__main__":
     # load data & build fnm - path dict
     fnm_path_dict = {}
     dir_list = [
-        "/share/ai_platform/lushun/dataset/original_videos/",
-        "/share/ai_platform/zhuwentao/ads_game_videos/",
-        "/share/ai_platform/zhuwentao/video_download/"
+        "YOURDOWNLOADDATAPATH/dataset/original_videos/",
+        "YOURDOWNLOADDATAPATH/dataset/ads_game_videos/",
+        "YOURDOWNLOADDATAPATH/dataset/video_download/"
     ]
     for cur_dir in dir_list:
         for fnm in os.listdir(cur_dir):
