@@ -3,6 +3,8 @@ AutoShot: A Short Video Dataset and State-of-the-Art Shot Boundary Detection - C
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/autoshot-a-short-video-dataset-and-state-of/camera-shot-boundary-detection-on-clipshots)](https://paperswithcode.com/sota/camera-shot-boundary-detection-on-clipshots?p=autoshot-a-short-video-dataset-and-state-of)
 
+The short-form videos have explosive popularity and have dominated the new social media trends. Prevailing short-video platforms, e.g., Kuaishou (Kwai), TikTok, Instagram Reels, and YouTube Shorts, have changed the way we consume and create content. For video content creation and understanding, the shot boundary detection (SBD) is one of the most essential components in various scenarios. In this work, we release a new public Short video sHot bOundary deTection dataset, named SHOT, consisting of 853 complete short videos and 11,606 shot annotations, with 2,716 high quality shot boundary annotations in 200 test videos. Leveraging this new data wealth, we propose to optimize the model design for video SBD, by conducting neural architecture search in a search space encapsulating various advanced 3D ConvNets and Transformers. Our proposed approach, named AutoShot, achieves higher F1 scores than previous state-of-the-art approaches, e.g., outperforming TransNetV2 by 4.2\%, when being derived and evaluated on our newly constructed SHOT dataset. Moreover, to validate the generalizability of the AutoShot architecture, we directly evaluate it on another three public datasets: ClipShots, BBC and RAI, and the F1 scores of AutoShot outperform previous state-of-the-art approaches by 1.1\%, 0.9\% and 1.2\%, respectively.
+
 Dataset link:<br>
 Label: https://github.com/wentaozhu/AutoShot/blob/main/kuaishou_v2.txt <br>
 Please read the paper https://github.com/wentaozhu/AutoShot/blob/main/CVPR23_AutoShot.pdf and supplementary https://github.com/wentaozhu/AutoShot/blob/main/CVPR23_AutoShot_Supplementary.pdf for the dataset, baseline and method. <br>
@@ -11,7 +13,7 @@ Data: Baidu link: https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passc
 
 
 
-Model link: TODO
+Model link: Baidu link: https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq <br>
 
 Evaluation script:<br>
 Step 1: Download the dataset using link (https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq), unzip. <br>
