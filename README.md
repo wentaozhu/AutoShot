@@ -19,7 +19,6 @@ Evaluation script:<br>
 Step 1: Download the dataset using link (https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq), unzip. <br>
 Step 2: Merge folders `ads_game_videos_2` and `ads_game_videos` into one folder with name `ads_game_videos`. <br>
 Step 3: Merge folders `video_download`, `video_download_2`, `video_download_3`, `video_download_4`, `video_download_5` into one folder with name `video_download`. <br>
-Step 3: Merge folders `video_download`, `video_download_2`, `video_download_3`, `video_download_4`, `video_download_5` into one folder with name `video_download`. <br>
 Step 4: Change the data path `YOURDOWNLOADDATAPATH` in `compare_inference_baseline_groundtruth_v2.py` with your downloaded data path. <br>
 Step 5: Download baseline model using link (https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq), and move the model `ckpt_0_200_0.pth` to this directory. <br>
 Step 6: Download baseline existing prediction using link (https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq), and move the prediction `baseline_one_hot_pred_dict_baseline.pickle` and `gt_scenes_dict_baseline_v2.pickle` to this directory. <br>
