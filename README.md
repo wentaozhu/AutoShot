@@ -9,7 +9,9 @@ Dataset link:<br>
 Label: https://github.com/wentaozhu/AutoShot/blob/main/kuaishou_v2.txt <br>
 Please read the paper https://github.com/wentaozhu/AutoShot/blob/main/CVPR23_AutoShot.pdf and supplementary https://github.com/wentaozhu/AutoShot/blob/main/CVPR23_AutoShot_Supplementary.pdf for the dataset, baseline and method. <br>
 Format: In the dataset, for each short video, with the same name as the video, there exists the annotations of the shot boundaries, i.e., the beginning and the end frame number of each shot per line. <br>
-Data: Baidu link: https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq <br>
+Data: 
+Google Drive: https://drive.google.com/drive/folders/1xZN6tvefXXmpZlIZ6GoSUUxpDQQOSNfJ?usp=sharing (Thank you, Dr. Haotian Jiang, so much!) <br>
+Baidu link: https://pan.baidu.com/s/1CdCVNzFdF3U6I4ajfejYNQ?pwd=sfkq passcode: sfkq <br>
 
 
 
